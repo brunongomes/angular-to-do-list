@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "tarefa": "task example 1",
+      "categoria": "Trabalho",
+      "concluido": true
+    },
+    {
+      "id": "2",
+      "tarefa": "task example 2",
+      "categoria": "Casa",
+      "concluido": false
+    }
+  ]
+}
